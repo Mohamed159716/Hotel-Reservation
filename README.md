@@ -1,2 +1,2 @@
 # Hotel-Reservation
-Hotel Reservation website with HTML5, CSS3, Bootstrap
+Hotel Reservatoin website with HTML5, CSS3, Bootstrap
